@@ -1,6 +1,5 @@
 # Secure_File_Archiver
 
-
 This is a Java-based File Packer and Unpacker project. It allows users to combine multiple .txt files into a single file and later extract them back to their original form.
 
 The project also includes basic encryption and decryption using XOR.
